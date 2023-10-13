@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Book">
+    <Position X="9" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAABAAABAIAAEQAAAACABAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Book.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Date">
+    <Position X="20" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAkAACAIAAAAAAAcAEFQQAAAAQAAgABEAAgAAQAQAQ=</HashCode>
+      <FileName>Date.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Date_time">
+    <Position X="18.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CEAkAAAAIABAAAAQEAAERQAAAAQAAgAANAAjAAQAwQQ=</HashCode>
+      <FileName>Date_time.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library">
+    <Position X="21.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAQAACAAQhAAIBAAIAAIgEBQAAAAAABAAAAIAICAA=</HashCode>
+      <FileName>Library.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Magazine">
+    <Position X="13.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAEAAAAAEAAAAAAIAAAAAAAACABBAAAAAAAAgAAAEA=</HashCode>
+      <FileName>Magazine.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Orders">
+    <Position X="23.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAEICIAAACAAgAAAwEhAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Orders.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Publication">
+    <Position X="4.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BMQBFAgAwAAEFEABIAAABZgCQCABIAAFAgAAAlAACAA=</HashCode>
+      <FileName>Publication.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PublicationException" Collapsed="true">
+    <Position X="15" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>PublicationException.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BookCodeException">
+    <Position X="17.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>PublicationException.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BookTitleException">
+    <Position X="24" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>PublicationException.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BookAuthorException">
+    <Position X="1.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>PublicationException.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BookGenreException">
+    <Position X="8.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>PublicationException.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BookPublishingHouseException">
+    <Position X="12.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>PublicationException.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BookEditionException">
+    <Position X="19.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>PublicationException.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BookTomeException">
+    <Position X="26.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>PublicationException.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ReceiptDateException">
+    <Position X="3.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>PublicationException.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BookPagesNumberException">
+    <Position X="10.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>PublicationException.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BookPriceException">
+    <Position X="15" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>PublicationException.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BookCopiesNumberException">
+    <Position X="21.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>PublicationException.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TakeException">
+    <Position X="28.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>PublicationException.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NameException">
+    <Position X="6" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>PublicationException.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Reader">
+    <Position X="25.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>wgQAAAAAEAAAAAAAAAAAAAQSAAAEAAAAABAEAAAAAiA=</HashCode>
+      <FileName>Reader.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Thesis">
+    <Position X="11.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAIAAAAAAAACABAAAAAAAAAgAAQAA=</HashCode>
+      <FileName>Thesis.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

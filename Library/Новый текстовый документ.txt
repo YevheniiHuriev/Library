@@ -1,0 +1,150 @@
+Magazine
+956-0-6438547
+Decor
+DECOR
+2023 2 10
+180
+48
+7
+2
+Magazine
+215-7-487563
+Beauty
+VOGUE
+2023 5 11
+145
+75
+7
+3
+Magazine
+155-0-755246
+Sport
+Football
+2023 7 3
+98
+9
+16
+15
+Magazine
+963-6-4343
+Fashion
+Majeur
+2023 1 14
+84
+18
+16
+23
+Magazine
+689-1-8947512
+Decor
+Elle Decoration
+2023 4 8
+124
+50.5
+6
+8
+Book
+159-6-55123
+Dragonfly Notes
+Mo Ana
+Poetry
+ReadRate
+2023 1 1
+190
+95
+8
+2
+Book
+649-1-8677512
+Thirst
+Tracy Wolfe
+Fantasy
+BookChef
+2023 3 1
+630
+310
+7
+1
+Book
+572-3-445434
+One
+Vlad Lei
+Horror
+Author.Today
+2023 7 10
+451
+180
+10
+1
+Book
+642-8-156485
+Dead lions
+Mick Gerron
+Thriller
+ReadRate
+2023 8 3
+320
+87
+13
+1
+Book
+122-5-223258
+Illegal
+Barchuk P.
+Detective
+Author.Today
+2023 4 25
+240
+139
+14
+1
+Thesis
+665-1-58742
+testTitle_1
+Mukovoz P.P.
+Chemistry
+disserCat
+2023 1 27
+697
+450
+5
+Thesis
+265-7-153265
+testTitle_2
+Tsaplin D.E.
+Chemistry
+disserCat
+2023 7 1
+365
+340
+4
+Thesis
+624-3-525252
+testTitle_3
+Koshkin K.A.
+Medicine
+disserCat
+2023 5 13
+207
+350
+8
+Thesis
+552-1-8412325
+testTitle_4
+Polyanina D.A.
+Medicine
+disserCat
+2023 6 17
+203
+410
+6
+Thesis
+456-3-654789
+testTitle_5
+Krais V.V.
+Veterinary
+disserCat
+2023 4 8
+155
+320
+3
